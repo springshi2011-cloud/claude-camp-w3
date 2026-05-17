@@ -1,0 +1,15 @@
+{
+    "total_students": 20,
+    "students_by_country": {
+        "Australia": 5,
+        "Canada": 3,
+        "Japan": 3,
+        "Germany": 3,
+        "USA": 2,
+        "India": 2,
+        "Singapore": 1,
+        "UK": 1
+    },
+    "completed_bets": 9,
+    "completion_rate": 45.0
+}
